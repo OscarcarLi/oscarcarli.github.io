@@ -1,6 +1,6 @@
 ---
 author_profile: true
-layout: publications
+layout: single
 permalink: /pubs/
 ---
 - Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution \
