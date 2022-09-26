@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-I'm a rising third year PhD student in the Machine Learning Department at Carnegie Mellon University advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. I'm broadly interested in two aspects of machine learning:
+I'm a rising fourth year PhD student in the Machine Learning Department at Carnegie Mellon University advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. I'm broadly interested in two aspects of machine learning:
 1. how to endow machine learning models with more human-like intelligence;
 
 2. how to make machine learning models more practically useful and reliable.

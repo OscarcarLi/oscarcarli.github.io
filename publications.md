@@ -3,16 +3,19 @@ author_profile: true
 layout: single
 permalink: /pubs/
 ---
+- Label Leakage and Protection in Two-party Split Learning \
+    **Oscar Li**, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, Virginia Smith, Chong Wang \
+    ICLR 2022 \
+    [[arxiv]](https://openreview.net/forum?id=cOtBRgsf2fO){:target="_blank"}[[video]](https://iclr.cc/virtual/2022/poster/6388)
+    {% comment %}
+    [Neurips 2020 SpicyFL Workshop](http://icfl.cc/SpicyFL/2020){:target="_blank"}
+    {% endcomment %}
+
+
 - Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution \
     **Oscar Li**\*, Amrith Setlur\*, Virginia Smith \
     Neurips 2021 \
-    [[arxiv]](https://arxiv.org/abs/2102.11503){:target="_blank"}
-
-- Label Leakage and Protection in Two-party Split Learning \
-    **Oscar Li**, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, Virginia Smith, Chong Wang \
-    In Submission \
-    [[arxiv]](https://arxiv.org/abs/2102.08504){:target="_blank"} \
-    [Neurips 2020 SpicyFL Workshop](http://icfl.cc/SpicyFL/2020){:target="_blank"}
+    [[arxiv]](https://arxiv.org/abs/2102.11503){:target="_blank"}[[video]](https://nips.cc/virtual/2021/poster/26025)
 
 - Is Support Set Diversity Necessary for Meta-Learning? \
     Amrith Setlur\*, **Oscar Li**\*, Virginia Smith \

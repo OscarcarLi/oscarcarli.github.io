@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Oscar Li" what is the displayed on upper left and also browser tab name
+title                    : "Oscar Li" # "Oscar Li" what is the displayed on upper left and also browser tab name
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Oscar Li"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oscar Li"
+  # name             : "Oscar Li"
   avatar           : "/assets/images/headshot_600by600.png"
   bio              : "PhD student\nMachine Learning Department\nCarnegie Mellon University"
   location         : "Pittsburgh, PA"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/OscarLi101"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
