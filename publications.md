@@ -3,6 +3,10 @@ author_profile: true
 layout: single
 permalink: /pubs/
 ---
+- Noise-Reuse in Online Evolution Strategies \
+    **Oscar Li**, James Harrison, Jascha Sohl-Dickstein, Virigina Smith, Luke Metz \
+    [[arxiv]](https://arxiv.org/abs/2304.12180){:target="_blank"}
+
 - Label Leakage and Protection in Two-party Split Learning \
     **Oscar Li**, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, Virginia Smith, Chong Wang \
     ICLR 2022 \
