@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 - Noise-Reuse in Online Evolution Strategies \
     **Oscar Li**, James Harrison, Jascha Sohl-Dickstein, Virigina Smith, Luke Metz \
+    To appear in NeurIPS 2023 \
     [[arxiv]](https://arxiv.org/abs/2304.12180){:target="_blank"}
 
 - Label Leakage and Protection in Two-party Split Learning \
@@ -18,7 +19,7 @@ permalink: /pubs/
 
 - Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution \
     **Oscar Li**\*, Amrith Setlur\*, Virginia Smith \
-    Neurips 2021 \
+    NeurIPS 2021 \
     [[arxiv]](https://arxiv.org/abs/2102.11503){:target="_blank"}[[video]](https://nips.cc/virtual/2021/poster/26025)
 
 - Is Support Set Diversity Necessary for Meta-Learning? \
@@ -28,7 +29,7 @@ permalink: /pubs/
 
 - This Looks Like That: Deep Learning for Interpretable Image Recognition \
     Chaofan Chen\*, **Oscar Li**\*, Daniel Tao, Alina Barnett, Cynthia Rudin, Jonathan Su \
-    Neurips 2019 (spolight, top 3% papers) \
+    NeurIPS 2019 (spolight, top 3% papers) \
     [[arxiv]](https://arxiv.org/abs/1806.10574){:target="_blank"} [[talk (05:12)]](https://slideslive.com/38924030/track-4-session-5-spotlights?time=312){:target="_blank"}
 
 - Interpretable Image Recognition with Hierarchical Prototypes \
