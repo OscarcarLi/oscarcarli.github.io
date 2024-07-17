@@ -12,12 +12,13 @@ $doc-font-size: 16 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
+
 /* system typefaces */
 // $serif: Times, Georgia, serif !default;
 // $sans-serif: Georgia, serif !default;
 // $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, Avenir, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
