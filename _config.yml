@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "aqua" # "default" # "air", "aqua", "con
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscar Li" # "Oscar Li" what is the displayed on upper left and also browser tab name
+title                    : "" # "Oscar Li" what is the displayed on upper left and also browser tab name
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Oscar Li"
@@ -93,33 +93,36 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Oscar Li"
+  name             : "Oscar Li"
   avatar           : "/assets/images/headshot_600by600.png"
   bio              : "PhD student\nMachine Learning Department\nCarnegie Mellon University"
   location         : "Pittsburgh, PA"
   email            : oscarli@cmu.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:oscarli@cmu.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:oscarli@cmu.edu"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/OscarLi101"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OscarcarLi"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-fw fa-graduation-cap" # "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=rtpoh5wAAAAJ&hl=en"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/runliangoscarli/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 # Site Footer
 footer:
