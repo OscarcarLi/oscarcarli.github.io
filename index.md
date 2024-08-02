@@ -17,4 +17,4 @@ In the past, I have
 
 <!-- I have worked on areas including meta-learning, zeroth-order-gradient estimation, out-of-distribution generalization/evaluation, federated learning, privacy protection, and model interpretability. -->
 
-Before my PhD, I graduated Summa Cum Laude with double majors in Math and Computer Science from Duke University where I worked with Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/){:target="_blank"}.
+Before my PhD, I graduated Summa Cum Laude with double majors in Math and Computer Science from Duke University where I worked with Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/){:target="_blank"} on interpretable deep learning.
