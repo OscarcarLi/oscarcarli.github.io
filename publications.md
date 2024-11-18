@@ -3,12 +3,14 @@ author_profile: true
 layout: single
 permalink: /pubs/
 ---
-- Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients \
+- GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients \
     Aashiq Muhamed, **Oscar Li**, David Woodruff, Mona Diab, Virginia Smith \
-    [[arxiv]](https://arxiv.org/abs/2406.17660){:target="_blank"} 2024
+    EMNLP 2024 \
+    [[arxiv]](https://arxiv.org/abs/2406.17660){:target="_blank"}
 
 - OmniPred: Language Models as Universal Regressors \
     Xingyou Song\*, **Oscar Li**\*, Chansoo Lee, Bangding Yang, Daiyi Peng, Sagi Perel, Yutian Chen \
+    Under review at TMLR \
     [[arxiv]](https://arxiv.org/abs/2402.14547){:target="_blank"} 2024
 
 - Noise-Reuse in Online Evolution Strategies \
