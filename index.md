@@ -19,4 +19,4 @@ In the past, I have
 
 Before my PhD, I graduated Summa Cum Laude with double majors in Math and Computer Science from Duke University where I worked with Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/){:target="_blank"} on interpretable deep learning.
 
-**I am on the job market with a start date in 2025. Please reach out if you think I'm good fit. Thanks!**
+<!-- **I am on the job market with a start date in 2025. Please reach out if you think I'm good fit. Thanks!** -->
