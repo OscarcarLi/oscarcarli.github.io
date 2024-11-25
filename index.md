@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
+classes: wide
 ---
 
 <br>

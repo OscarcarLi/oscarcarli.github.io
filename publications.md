@@ -2,6 +2,7 @@
 author_profile: true
 layout: single
 permalink: /pubs/
+classes: wide
 ---
 - GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients \
     Aashiq Muhamed, **Oscar Li**, David Woodruff, Mona Diab, Virginia Smith \
