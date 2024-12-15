@@ -1,0 +1,3 @@
+- Write a post about differentiating through the linear equation solver layer.
+- Write a post about forward KL and reverse KL.
+- Fully understand and write about the conjugate gradient algorithm.
