@@ -1,3 +1,4 @@
 - Write a post about differentiating through the linear equation solver layer.
 - Write a post about forward KL and reverse KL.
+  - simply write about when target distribution is a mixture of 2 1-d gaussians and learning a single 1-d gaussian by minimizing forward (or reverse) KL.
 - Fully understand and write about the conjugate gradient algorithm.
