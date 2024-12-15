@@ -13,3 +13,4 @@
     by pasting the `<script></script>` into `_layouts/default.html`.
     - This allows using single dollar `$` sign for inline math and `\\[` `\\]` for
     block equation.
+- `_code/` for storing code artefacts.
