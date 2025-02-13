@@ -11,8 +11,8 @@ classes: wide
 
 - OmniPred: Language Models as Universal Regressors \
     Xingyou Song\*, **Oscar Li**\*, Chansoo Lee, Bangding Yang, Daiyi Peng, Sagi Perel, Yutian Chen \
-    Under review at TMLR \
-    [[arxiv]](https://arxiv.org/abs/2402.14547){:target="_blank"} 2024
+    TMLR 2024 \
+    [[arxiv]](https://arxiv.org/abs/2402.14547){:target="_blank"}[[OpenReview]](https://openreview.net/forum?id=t9c3pfrR1X){:target="_blank"}
 
 - Noise-Reuse in Online Evolution Strategies \
     **Oscar Li**, James Harrison, Jascha Sohl-Dickstein, Virigina Smith, Luke Metz \
