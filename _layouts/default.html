@@ -16,21 +16,27 @@
     {% include head/custom.html %}
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
-        extensions: ["tex2jax.js", "AMScd.js"],  // AMScd.js handles equation numbering
+        extensions: ["tex2jax.js"],              // global (non-TeX) extensions
         jax: ["input/TeX", "output/HTML-CSS"],
+  
         tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+          inlineMath:  [['$','$'], ['\\(','\\)']],
+          displayMath: [['$$','$$'], ['\\[','\\]']],
           processEscapes: true
         },
+  
         "HTML-CSS": { fonts: ["TeX"] },
+  
+        /* ---- TeX-specific options ---- */
         TeX: {
-          equationNumbers: { autoNumber: "AMS" }  // Enable AMS-style numbering
+          extensions: ["AMScd.js"],             // <-- right place for AMScd
+          equationNumbers: { autoNumber: "AMS" }
         }
       });
     </script>
-    <script type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML">
+  
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML">
     </script>
   </head>
 
