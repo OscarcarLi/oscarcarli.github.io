@@ -7,11 +7,10 @@ classes: wide
 
 <br>
 
-I'm a final year PhD student in the Machine Learning Department at Carnegie Mellon University advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. My primary research interest is in principled machine learning methodologies (algorithm design). A major part of my PhD research focuses on gradient estimation techniques under various practical constraints. I've also worked on automated machine learning (AutoML) and more specifically meta-learning in grad school. 
-
-Recently I had a great time working as a Quantitative Research Intern in a machine learning team at [Cubist Systematic Strategies](https://point72.com/cubist/){:target="_blank"}.
+I'm a graduating PhD student in the Machine Learning Department at Carnegie Mellon University advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. My primary research interest is in principled machine learning methodologies (algorithm design). A major part of my PhD research focuses on gradient estimation techniques under various practical constraints. I've also worked on automated machine learning (AutoML) and more specifically meta-learning in grad school. 
 
 In the past, I have
+- worked as a Quantitative Research Intern in a machine learning team at [Cubist Systematic Strategies](https://point72.com/cubist/){:target="_blank"}.
 - worked as a student researcher in the [Vizier](https://research.google/pubs/google-vizier-a-service-for-black-box-optimization/){:target="_blank"} team at Google DeepMind.
 - interned with the [Custom Labels](https://aws.amazon.com/rekognition/custom-labels-features/){:target="_blank"} team in Amazon Web Services (Rekognition)
 - interned with the Applied Machine Learning team (Bellevue, WA) at ByteDance. 

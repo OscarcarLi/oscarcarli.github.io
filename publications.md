@@ -7,7 +7,7 @@ classes: wide
 - GRASS: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients \
     Aashiq Muhamed, **Oscar Li**, David Woodruff, Mona Diab, Virginia Smith \
     EMNLP 2024 \
-    [[arxiv]](https://arxiv.org/abs/2406.17660){:target="_blank"}
+    [[ACL anthology]](https://aclanthology.org/2024.emnlp-main.835/){:target="_blank"}
 
 - OmniPred: Language Models as Universal Regressors \
     Xingyou Song\*, **Oscar Li**\*, Chansoo Lee, Bangding Yang, Daiyi Peng, Sagi Perel, Yutian Chen \
