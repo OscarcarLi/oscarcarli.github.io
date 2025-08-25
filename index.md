@@ -7,7 +7,7 @@ classes: wide
 
 <br>
 
-I'm a graduating PhD student in the Machine Learning Department at Carnegie Mellon University advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. My primary research interest is in principled machine learning methodologies (algorithm design). A major part of my PhD research focuses on gradient estimation techniques under various practical constraints. I've also worked on automated machine learning (AutoML) and more specifically meta-learning in grad school. 
+I recently completed my PhD in the Machine Learning Department at Carnegie Mellon University, where I was advised by Professor [Virginia Smith](https://www.cs.cmu.edu/~smithv/){:target="_blank"}. My primary research interest is in principled machine learning methodologies (algorithm design). A major part of my PhD research focused on gradient estimation techniques under various practical constraints. I've also worked on automated machine learning (AutoML) and more specifically meta-learning in grad school. 
 
 In the past, I have
 - worked as a Quantitative Research Intern in a machine learning team at [Cubist Systematic Strategies](https://point72.com/cubist/){:target="_blank"}.

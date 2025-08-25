@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Oscar Li"
   avatar           : "/assets/images/headshot_600by600.png"
-  bio              : "PhD student\nMachine Learning Department\nCarnegie Mellon University"
+  bio              : "Researcher\n\nPhD (2025)\nMachine Learning Department\nCarnegie Mellon University"
   location         : "Pittsburgh, PA"
-  email            : oscarli@cmu.edu
+  email            : runlianl@alumni.cmu.edu
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
